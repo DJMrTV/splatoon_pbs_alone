@@ -1,0 +1,3 @@
+[submodule "dependencies/LwPpcAsm"]
+	path = dependencies/LwPpcAsm
+	url = https://github.com/DJMrTV/LwPpcAsm.git
